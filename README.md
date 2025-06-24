@@ -27,7 +27,7 @@ This project is a **content-based music recommender system** built using the [Sp
   - `loudness`
   - `tempo`
   - `valence`
-  - + metadata like `name`, `artists`, `year`, and `explicit`
+  - metadata like `name`, `artists`, `year`, and `explicit`
 
 ---
 
