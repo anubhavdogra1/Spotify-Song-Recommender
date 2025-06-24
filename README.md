@@ -1,9 +1,9 @@
-# Spotify-Song-Recommender
+# Spotify-Song-Recommender-System
 A content-based Spotify song recommender using audio features like danceability, energy, and tempo. Built with scikit-learn + pandas.
 
 ---
 
-# Spotify Song Recommender (Content-Based Filtering)
+# Spotify Song Recommender System (Content-Based Filtering)
 
 This project is a **content-based music recommender system** built using the [Spotify 1.2M+ Songs Dataset](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs). It recommends songs based on **audio features** like danceability, energy, valence, and tempo using cosine similarity and the Nearest Neighbors algorithm.
 
