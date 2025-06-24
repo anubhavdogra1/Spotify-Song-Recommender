@@ -14,7 +14,6 @@ This project is a **content-based music recommender system** built using the [Sp
 - Recommends songs based on user input  
 - Uses 5 key audio features to compute similarity  
 - Scaled and optimized for memory usage (sampled to 5,000 tracks)  
-- Ready for integration with collaborative filtering (future work)
 
 ---
 
